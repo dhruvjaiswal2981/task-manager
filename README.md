@@ -234,11 +234,11 @@ erDiagram
 
 - Backend Deployment
     - Live Demo: The application is hosted on Render
-    - Access it here: 
+    - Access it here: https://task-manager-gjgr.onrender.com/api/tasks
 
 - Frontend Deployment
     - Live Demo: The application is hosted on Netlify.
-    - Access it here: 
+    - Access it here: https://dhruv-task-manager.netlify.app/
 
 ## Live Demo
 - Demo Video Link : https://drive.google.com/file/d/1kvFtzkdF9NR9inLMPSi6MP9yrD9n827n/view?usp=sharing
